@@ -1,0 +1,7 @@
+table, td, th {
+  border: 10px dotted turquoise;
+  text-align: center;
+  border-collapse: collapse;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 75px;
+}
